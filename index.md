@@ -16,7 +16,7 @@ subtitle: Home
 
 You can tap into the power of RadBus right now using our full-featured web client.  It works on your desktop, tablet, and phone - so you can use it wherever you go.
 
-> Try it out!  
+> Why not try it out!  
 [www.radbus.io](https://www.radbus.io)
 
 And guess what?  The web app is actually an open source project on GitHub!  
