@@ -14,7 +14,7 @@ subtitle: Home
 
 ## The Web App
 
-You can tap into the power of RadBus right now using our full-featured web client.  It works on your desktop and your phone so you can use it wherever you go.
+You can tap into the power of RadBus right now using our full-featured web client.  It works on your desktop, tablet, and phone - so you can use it wherever you go.
 
 > Try it out!  
 [www.radbus.io](https://www.radbus.io)
@@ -29,7 +29,7 @@ Wish you could tap into all this RadBus goodness from your own app?  Now you can
 
 > Check out the full [REST API Documentation]({{ page.github_org_url }}/api/wiki/REST-API-Documentation)
 
-RadBus is also an open source project built by people participating in the Twin Cities software development community who rely on Metro Transit to get to and from work every day:
+The RadBus Web API is also an open source project, and it's built by people participating in the Twin Cities software development community who rely on Metro Transit to get to and from work every day:
 
 > [{{ page.github_org_url }}/api]({{ page.github_org_url }}/api)
 
